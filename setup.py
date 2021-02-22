@@ -6,7 +6,7 @@ import sys
 
 setup(
     name='ansible-collection-test-utils',
-    version=__version__,
+    version='0.0.1',
     description='Repackage the mock folder from ansible/tests for use in collection tests',
     author='Kay-Uwe (Kiwi) Lorenz',
     author_email='tabkiwi@gmail.com',
